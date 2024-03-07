@@ -1,0 +1,2 @@
+This is an early prototype , no validations has been done yet , feel free to use this as a building block for your future ,
+ more infos / bom / and code will be uploaded accordanly 
